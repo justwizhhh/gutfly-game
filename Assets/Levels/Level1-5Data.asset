@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77897664bffdcb14f90b0fe7e1cd04de, type: 3}
+  m_Name: Level1-5Data
+  m_EditorClassIdentifier: 
+  LevelSceneID: 6
+  LevelID: 1-5
+  LevelName: The Hike
+  LevelDescription: Watch your steps, and your stomps!
+  IsLevelDefaultUnlocked: 0
+  NextLevel: {fileID: 11400000, guid: f3f18f6bda2956a4abd1b6874bf3fe18, type: 2}
+  MinCompletionTime: 25
+  MaxCompletionTime: 40

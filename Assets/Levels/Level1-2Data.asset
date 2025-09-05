@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77897664bffdcb14f90b0fe7e1cd04de, type: 3}
+  m_Name: Level1-2Data
+  m_EditorClassIdentifier: 
+  LevelSceneID: 3
+  LevelID: 1-2
+  LevelName: You got the Guts!?
+  LevelDescription: Some more advanced maneuvers here.
+  IsLevelDefaultUnlocked: 0
+  NextLevel: {fileID: 11400000, guid: 298d77572888da9439adb0de05e83b58, type: 2}
+  MinCompletionTime: 25
+  MaxCompletionTime: 50

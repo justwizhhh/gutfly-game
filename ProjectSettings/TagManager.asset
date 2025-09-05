@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Harmful
+  - PlatformGate
+  - SpeedBooster
+  - Death
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2303074127
+    locked: 0
+  - name: ObjectsLow
+    uniqueID: 1178418357
+    locked: 0
+  - name: Foreground
+    uniqueID: 2915561755
+    locked: 0
+  - name: Collectibles
+    uniqueID: 1461300567
+    locked: 0
+  - name: ObjectsHigh
+    uniqueID: 1345961981
+    locked: 0
+  - name: Player
+    uniqueID: 2155144137
+    locked: 0
+  - name: UI
+    uniqueID: 4217764631
+    locked: 0
